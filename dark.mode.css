@@ -1570,7 +1570,7 @@ background: transparent!important;
   overflow: hidden;
 }
 .theme-dark .sidebar-1tnWFu .content-yjf30S:after{
-content: 'this big gap is for the floating user controls, so sry if it looks ugly';
+content: ' '; \*this big gap is for the floating user controls, so sry if it looks ugly*\
 font-size: 13px;
 color: rgba(255, 255, 255, 0.03);
 text-align: center;

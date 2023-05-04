@@ -156,7 +156,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ e c h o";
+  content: "‏‏‎ e c h o 響 き";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -171,7 +171,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎ e c h o"; /*‏‏‎ c h i l l a x*/
+  content: "‏‏‎ e c h o 響 き"; /*‏‏‎ c h i l l a x*/
   letter-spacing: 2px;
 }
 /* button design*/

@@ -156,7 +156,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "e c h o";
+  content: "‏‏‎ e c h o";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -171,7 +171,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "e c h o"; /*‏‏‎ c h i l l a x*/
+  content: "‏‏‎ e c h o"; /*‏‏‎ c h i l l a x*/
   letter-spacing: 2px;
 }
 /* button design*/
@@ -1570,7 +1570,7 @@ background: transparent!important;
   overflow: hidden;
 }
 .theme-dark .sidebar-1tnWFu .content-yjf30S:after{
-content: ' '; \*this big gap is for the floating user controls, so sry if it looks ugly*\
+content: ' '; /*this big gap is for the floating user controls, so sry if it looks ugly*/
 font-size: 13px;
 color: rgba(255, 255, 255, 0.03);
 text-align: center;

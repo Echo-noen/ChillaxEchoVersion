@@ -170,7 +170,7 @@
   pointer-events: all;
   transition: 0.5s ease-in-out;
 }
-.wordmark-2u86JB:hover:before {
+.wordmark-2u86JB:hover::before {
   content: "‏‏‎ e c h o 響 き"; /*‏‏‎ c h i l l a x*/
   letter-spacing: 2px;
 }
